@@ -13,7 +13,7 @@
     "gl-matrix.h",
     "mat3.c",
     "mat4.c",
-    "quad.c",
+    "quat.c",
     "str.c",
     "vec3.c"  
   ]
