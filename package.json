@@ -1,7 +1,7 @@
 {
   "name": "gl-matrix.c",
   "version": "1.2.3",
-  "repo": "tzador/gl-matrix",
+  "repo": "tzador/gl-matrix.c",
   "description": "Matrix and Vector library for High Performance OpenGL apps",
   "keywords": [
     "opengl",
